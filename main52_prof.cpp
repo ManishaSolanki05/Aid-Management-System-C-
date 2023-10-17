@@ -1,12 +1,3 @@
-/* ------------------------------------------------------
-Final project Milestone 52
-Filename: main52_prof.cpp
-Version 1.0
-Author: Fardad Soleimanloo   2022-04-01
-Revision History
------------------------------------------------------------
-Date          Reason
------------------------------------------------------------*/
 #include <iostream>
 #include <fstream>
 #include "AidMan.h"
